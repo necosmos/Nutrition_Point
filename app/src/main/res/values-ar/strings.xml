@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NutritionPoint</string>
+    <string name="action_about">Про додаток</string>
+    <string name="choose_gender">Оберіть стать</string>
+    <string name="male">ЧОЛ</string>
+    <string name="female">ЖІН</string>
+    <string name="start_body_analysis">ПОЧАТИ АНАЛІЗ ТІЛА</string>
+    <string name="action_language">English</string>
+    <string name="health_monitor">HEALTH MONITOR</string>
+    <string name="your_profile_summary">ПІДСУМОК</string>
+    <string name="show_analysis">Показати аналіз</string>
+    <string name="restart_body_analysis">Перезапустити аналіз тіла</string>
+    <string name="doubleBackToast">Натісніть назад ще раз, щоб вийти</string>
+    <string name="healthy_recipes">Здорові рецепти</string>
+
+    <string name="notification_text"> Нагадування випити скляну води </string>
+    <string name="notification_string">Нагадування про воду</string>
+    <string name="reminders_title">Нагадування</string>
+    <string name="years">років</string>
+    <string name="kg">кг</string>
+    <string name="Male">Чоловік</string>
+    <string name="Female">Жінка</string>
+    <string name="age">ВІК</string>
+    <string name="weight">Вага</string>
+    <string name="height">Зріст</string>
+    <string name="analyze_data">Проаналізувати дані</string>
+
+</resources>
